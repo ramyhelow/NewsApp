@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">اخر الاخبار</string>
+    <string name="title_activity_tabbed">اخر الاخبار</string>
+    <string name="tab_text_1">الرئيسية</string>
+    <string name="tab_text_2">الأخبار</string>
+    <string name="tab_text_3">المفضلة</string>
+    <string name="action_settings">الاعدادات</string>
+    <string name="action_search">البحث</string>
+    <string name="title_activity_news_page">اسعار عملات</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="section_format">Hello blank fragment</string>
+    <string name="title_activity_add_news2">Hello blank fragment</string>
+    <string name="add_news_item">اضافة خبر جديد</string>
+    <string name="add_image">Add image</string>
+    <string name="news_time">وقت الخبر</string>
+    <string name="news_title">عنوان الخبر</string>
+    <string name="news_description">وصف الخبر...</string>
+</resources>
